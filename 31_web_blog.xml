@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Prolog Blog</title>
+</head>
+<body>
+    <h1>Welcome to My Prolog Blog</h1>
+    
+    <article>
+        <h2><a href="#post1">Learning Prolog Basics</a></h2>
+        <p>Today I learned about facts and rules in Prolog...</p>
+    </article>
+    
+    <article>
+        <h2><a href="#post2">Advanced Prolog Concepts</a></h2>
+        <p>Exploring backtracking and unification...</p>
+    </article>
+</body>
+</html>
